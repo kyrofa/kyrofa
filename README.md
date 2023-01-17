@@ -7,3 +7,5 @@ Kyle's day job is at Miriam Technologies, a software consulting and contracting 
 where he works on everything from cloud infrastructure to industrial real-time product
 sorting machines. In the past he's worked as a staff engineer for Canonical (the company
 that publishes Ubuntu), and as a lead roboticist for the US Department of Defense.
+
+If you like his work, consider [sponsoring him on GitHub](https://github.com/sponsors/kyrofa).
